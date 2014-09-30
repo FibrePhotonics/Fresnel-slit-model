@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 
-"""A simple modeling program for fresnel interference."""
+"""Fresnel_modelling.py  A simple modeling program for fresnel interference."""
 
-__author__  = "Mark"
+__author__  = "Matthew Partridge, based on the original model by Mark Manders"
 __copyright__   = "Copyright 2014, Cranfield University"
 __license__ = "GPL"
-__version__ = "2.0"
+__version__ = "1.0"
 
 
 #import things that I need
